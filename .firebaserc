@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ssg-food"
+  },
+  "targets": {
+    "ssg-food": {
+      "hosting": {
+        "ssg-food": [
+          "ssg-lunch-review"
+        ]
+      }
+    }
+  }
+}
